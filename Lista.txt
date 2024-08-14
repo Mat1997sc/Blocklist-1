@@ -53,11 +53,10 @@ rt.applvn.com
 redirector.googlevideo.com
 googleadservices.com
 static.doubleclick.net
-0.0.0.0 taobao.com
-0.0.0.0 umengjmacs.m.taobao.com
-0.0.0.0 gameuqee.com
-0.0.0.0 isnssdk.com
-0.0.0.0 mobile-collector.newrelic.com
-0.0.0.0 localytics.com
-0.0.0.0 upoll.umengcloud.com
-0.0.0.0 utop.umengcloud.com
+taobao.com
+umengjmacs.m.taobao.com
+gameuqee.com
+isnssdk.com
+mobile-collector.newrelic.com
+upoll.umengcloud.com
+utop.umengcloud.com

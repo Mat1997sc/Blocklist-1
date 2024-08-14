@@ -1,2 +1,3 @@
 #Blocklist by ElPibe
-127.0.0.1 accuweather.com
+0.0.0.0 accuweather.com
+0.0.0.0 pangle.io

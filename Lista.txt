@@ -90,7 +90,28 @@ e7876.dscg.akamaiedge.net
 appsflyer.com.akamaized.net
 abtest.alibaba.com
 hydra.alibaba.com
-
+applovin.com
+a.applovin.com
+a4.applovin.com
+assets.applovin.com
+d.applovin.com
+dash.applovin.com
+img.applovin.com
+ms.applovin.com
+ms4.applovin.com
+pdn.applovin.com
+prod-a.applovin.com
+prod-bid.applovin.com
+prod-ms.applovin.com
+res1.applovin.com
+rt.applovin.com
+stage-a.applovin.com
+127.0.0.1 stage-assets.applovin.com
+127.0.0.1 stage-bid.applovin.com
+127.0.0.1 stage-img.applovin.com
+127.0.0.1 stage-ms.applovin.com
+127.0.0.1 stage-pdn.applovin.com
+127.0.0.1 ue.applovin.com
 
 
 

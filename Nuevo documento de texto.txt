@@ -1,2 +1,2 @@
 #Blocklist by ElPibe
-0.0.0.0 accuweather.com
+1.1.1.1 accuweather.com

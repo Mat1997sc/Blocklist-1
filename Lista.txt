@@ -106,12 +106,8 @@ prod-ms.applovin.com
 res1.applovin.com
 rt.applovin.com
 stage-a.applovin.com
-127.0.0.1 stage-assets.applovin.com
-127.0.0.1 stage-bid.applovin.com
-127.0.0.1 stage-img.applovin.com
-127.0.0.1 stage-ms.applovin.com
-127.0.0.1 stage-pdn.applovin.com
-127.0.0.1 ue.applovin.com
+stage-assets.applovin.com
+applvn.com
 
 
 

@@ -1,10 +1,9 @@
 #Blocklist by ElPibe
-0.0.0.0 accuweather.com
 0.0.0.0 
 api.aimxhub.com
 pagead2.googlesyndication.com
 l.aimxhub.com
-0.0.0.0 googleads.g.doubleclick.net
+googleads.g.doubleclick.net
 cdn.banhq.com
 pubmatic-match.dotomi.com
 dit.whatsapp.net

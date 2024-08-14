@@ -58,5 +58,6 @@ static.doubleclick.net
 0.0.0.0 taobao.com
 0.0.0.0 umengjmacs.m.taobao.com
 0.0.0.0 gameuqee.com
+0.0.0.0 isnssdk.com
 
 

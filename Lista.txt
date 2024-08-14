@@ -60,3 +60,12 @@ isnssdk.com
 mobile-collector.newrelic.com
 upoll.umengcloud.com
 utop.umengcloud.com
+tracker.metricool.com
+intake-analytics.wikimedia.org
+aliyuncs.com
+amplitude.com
+events.split.io
+
+
+
+

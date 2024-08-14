@@ -51,6 +51,8 @@ pangle.io
 umeng.com
 criteo.com
 rt.applvn.com
+redirector.googlevideo.com
 youtube.com
+
 
 

@@ -108,6 +108,10 @@ rt.applovin.com
 stage-a.applovin.com
 stage-assets.applovin.com
 applvn.com
+appsflyer.com
+cdn-settings.appsflyersdk.com
+sdk.appsflyer.tk
+augur.io
 
 
 

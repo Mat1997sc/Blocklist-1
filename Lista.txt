@@ -54,7 +54,7 @@ rt.applvn.com
 redirector.googlevideo.com
 googleadservices.com
 static.doubleclick.net
-balancer.liga.la
+0.0.0.0 taobao.com
 
 
 

@@ -1,2 +1,2 @@
 #Blocklist by ElPibe
-1.1.1.1 accuweather.com
+127.0.0.1 accuweather.com

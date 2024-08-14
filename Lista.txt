@@ -50,5 +50,7 @@ pangle.io
 5678games.com
 umeng.com
 criteo.com
+rt.applvn.com
 youtube.com
+
 

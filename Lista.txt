@@ -1,4 +1,5 @@
 #Blocklist by ElPibe
+
 api.aimxhub.com
 pagead2.googlesyndication.com
 l.aimxhub.com
@@ -55,6 +56,7 @@ redirector.googlevideo.com
 googleadservices.com
 static.doubleclick.net
 0.0.0.0 taobao.com
+0.0.0.0 umengjmacs.m.taobao.com
 
 
 

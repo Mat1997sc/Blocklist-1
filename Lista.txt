@@ -1,5 +1,4 @@
 #Blocklist by ElPibe
-0.0.0.0 
 api.aimxhub.com
 pagead2.googlesyndication.com
 l.aimxhub.com

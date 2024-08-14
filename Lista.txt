@@ -1,5 +1,15 @@
+doubleclick.net
+doubleclick.com
 pubads.g.doubleclick.net
+taboola.com
 criteo.net
+rubiconproject.com
+responsiveads.com
+deployads.com
+amazon-adsystem.com
+adthis.com
+popup.msn.com
+augur.io
 mon-va.byteoversea.com
 casalemedia.com
 api.aimxhub.com

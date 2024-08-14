@@ -54,6 +54,7 @@ rt.applvn.com
 redirector.googlevideo.com
 googleadservices.com
 static.doubleclick.net
+balancer.liga.la
 
 
 

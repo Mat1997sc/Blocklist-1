@@ -1,4 +1,4 @@
-doubleclick.net
+Idoubleclick.net
 doubleclick.com
 pubads.g.doubleclick.net
 taboola.com
@@ -126,7 +126,49 @@ appsflyer.com
 cdn-settings.appsflyersdk.com
 sdk.appsflyer.tk
 augur.io
-
+analytics.tiktok.com
+analytics.twitter.com
+analytics-tcp.mtgglobals.com
+app-measurement.com
+rubiconproject.com
+c.amazon-adsystem.com
+c.aps.amazon-adsystem.com
+c.bing.com
+c.evidon.com
+c.live.com
+c.msn.com
+c.p2r14.com
+c.pub.network
+c1.adform.net
+c2.taboola.com
+c2shb.pubgw.yahoo.com
+c3.taboola.com
+unity3d.com
+data.flurry.com
+google-analytics.com
+o1069899.ingest.sentry.io
+o1129.ingest.sentry.io
+o168620.ingest.sentry.io
+o185886.ingest.sentry.io
+o19233.ingest.sentry.io
+o22381.ingest.sentry.io
+o28549.ingest.sentry.io
+o30277.ingest.sentry.io
+o31459.ingest.sentry.io
+o418887.ingest.sentry.io
+o435357.ingest.sentry.io
+o448786.ingest.sentry.io
+o4505325490339840.ingest.sentry.io
+o4506552359124992.ingest.sentry.io
+o472819.ingest.sentry.io
+o64374.ingest.sentry.io
+pubmatic.com
+sdk.iad-01.braze.com
+sdk.iad-03.braze.com
+sdk.iad-04.braze.com
+sdk.iad-05.braze.com
+sdk.iad-06.braze.com
+sdk.iad-08.braze.com
 
 
 

@@ -1,4 +1,3 @@
-youtube-ui.l.google.com
 doubleclick.net
 doubleclick.com
 pubads.g.doubleclick.net

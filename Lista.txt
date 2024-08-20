@@ -167,6 +167,13 @@ sdk.iad-04.braze.com
 sdk.iad-05.braze.com
 sdk.iad-06.braze.com
 sdk.iad-08.braze.com
+ads-api.twitter.com
+cm.g.doubleclick.cnet
+zeezaiwoo.com
+collector.superwall.me
+track-sdk.customer.io
+analytics.rayjump.com
+static-cdn.strpst.com
 
 
 

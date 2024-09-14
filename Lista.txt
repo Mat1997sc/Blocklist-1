@@ -191,6 +191,12 @@ collector.superwall.me
 track-sdk.customer.io
 analytics.rayjump.com
 static-cdn.strpst.com
-
+corejjgames.com
+ms.applovin.com
+s.youtube.com
+star.c10r.facebook.com
+history.google.com
+applovin.com
+applvn.com
 
 

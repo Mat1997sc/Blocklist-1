@@ -1,4 +1,4 @@
-0.0.0.0
+127.0.0.1
 google-analytics.com
 pangolin16.sgsnssdk.com
 sgsnssdk.com
@@ -285,6 +285,7 @@ configv2.unityads.unity3d.com
 unity3d.com
 xvideos.com
 erome.com
+apius.aimxhub.com
 
 
 

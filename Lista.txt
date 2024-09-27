@@ -283,7 +283,7 @@ appsflyersdk.com
 configv2.unityads.unity3d.com
 unity3d.com
 127.0.0.1 xvideos.com
-127.0.0.1 erome.com
+0.0.0.0 erome.com
 
 
 

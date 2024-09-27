@@ -55,5 +55,6 @@ redirector.googlevideo.com
 googleadservices.com
 static.doubleclick.net
 
+127.0.0.1 xvideos.com
 
 

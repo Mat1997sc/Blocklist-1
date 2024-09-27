@@ -1,3 +1,4 @@
+127.0.0.1
 google-analytics.com
 pangolin16.sgsnssdk.com
 sgsnssdk.com
@@ -282,7 +283,7 @@ skadsdk.appsflyer.com
 appsflyersdk.com
 configv2.unityads.unity3d.com
 unity3d.com
-127.0.0.1 xvideos.com
+xvideos.com
 erome.com
 
 

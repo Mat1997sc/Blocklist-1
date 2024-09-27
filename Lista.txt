@@ -283,6 +283,9 @@ appsflyersdk.com
 configv2.unityads.unity3d.com
 unity3d.com
 
+127.0.0.1 xvideos.com
+
+
 
 
 

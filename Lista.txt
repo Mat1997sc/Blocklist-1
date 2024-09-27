@@ -286,6 +286,28 @@ unity3d.com
 xvideos.com
 erome.com
 apius.aimxhub.com
+analytics.tiktok.com
+analytics.twitter.com
+analytics-tcp.mtgglobals.com
+rubiconproject.com
+c.amazon-adsystem.com
+c.aps.amazon-adsystem.com
+c.bing.com
+c.evidon.com
+c.live.com
+c.msn.com
+c.p2r14.com
+c.pub.network
+c1.adform.net
+c2.taboola.com
+c2shb.pubgw.yahoo.com
+c3.taboola.com
+data.flurry.com
+google-analytics.com
+sentry.io
+ingest.sentry.io
+pubmatic.com
+braze.com
 
 
 

@@ -282,8 +282,6 @@ skadsdk.appsflyer.com
 appsflyersdk.com
 configv2.unityads.unity3d.com
 unity3d.com
-xvideos.com
-erome.com
 apius.aimxhub.com
 analytics.tiktok.com
 analytics.twitter.com
@@ -324,7 +322,7 @@ sentry.io
 ingest.sentry.io
 pubmatic.com
 braze.com
-
+ups.analytics.yahoo.com
 
 
 

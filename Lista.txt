@@ -1,4 +1,4 @@
-#Blocklist by ElPibe
+
 api.aimxhub.com
 pagead2.googlesyndication.com
 l.aimxhub.com
@@ -53,6 +53,23 @@ criteo.com
 rt.applvn.com
 redirector.googlevideo.com
 googleadservices.com
+adsdk.microsoft.com
+clarity.ms
+btloader.com
+googletagmanager.com
+googleads.g.doubleclick.net
+static.doubleclick.net
+google.com.ar
+googletagmanager.com
+naupsithizeekee.com
+jwpltx.com
+push-sdk.com
+d3g5ovfngjw9bw.cloudfront.net
+acscdn.com
+cdn4ads.com
+push-sdk.com
+waust.at
+prd.jwpltx.com
 static.doubleclick.net
 
 127.0.0.1 xvideos.com
